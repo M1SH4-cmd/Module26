@@ -1,0 +1,7 @@
+# ninja log v6
+3	278	7579869011778579	CMakeFiles/Note1.dir/main.cpp.obj.ddi	8e7a2e4d17308cbb
+278	327	7579869014971308	CMakeFiles/Note1.dir/CXX.dd	39d9de0657d99f21
+278	327	7579869014971308	C:/Users/User/Desktop/Module26/Notes/Note1/cmake-build-debug/CMakeFiles/Note1.dir/CXXModules.json	39d9de0657d99f21
+278	327	7579869014971308	CMakeFiles/Note1.dir/main.cpp.obj.modmap	39d9de0657d99f21
+335	1725	7579869015096418	CMakeFiles/Note1.dir/main.cpp.obj	dcdaeb8874995b2
+1728	1888	7579869029023916	Note1.exe	e08c4f373d0c33ab

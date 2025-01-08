@@ -1,0 +1,19 @@
+# ninja log v6
+96	610	7580442159129585	CMakeFiles/Note2.dir/main.cpp.obj.ddi	cade622c3e414b4d
+610	653	7580442164645509	CMakeFiles/Note2.dir/CXX.dd	d59799780c1a5c99
+610	653	7580442164645509	C:/Users/User/Desktop/Module26/Notes/Note2/cmake-build-debug/CMakeFiles/Note2.dir/CXXModules.json	d59799780c1a5c99
+610	653	7580442164645509	CMakeFiles/Note2.dir/main.cpp.obj.modmap	d59799780c1a5c99
+660	2211	7580442164770621	CMakeFiles/Note2.dir/main.cpp.obj	4f31343b5520f427
+2214	2676	7580442180303810	Note2.exe	d63a5a6aee70e44f
+17	294	7580442474342193	CMakeFiles/Note2.dir/main.cpp.obj.ddi	cade622c3e414b4d
+294	335	7580442477119579	CMakeFiles/Note2.dir/CXX.dd	d59799780c1a5c99
+294	335	7580442477119579	C:/Users/User/Desktop/Module26/Notes/Note2/cmake-build-debug/CMakeFiles/Note2.dir/CXXModules.json	d59799780c1a5c99
+294	335	7580442477119579	CMakeFiles/Note2.dir/main.cpp.obj.modmap	d59799780c1a5c99
+337	1730	7580442477544936	CMakeFiles/Note2.dir/main.cpp.obj	4f31343b5520f427
+1731	1839	7580442491481922	Note2.exe	d63a5a6aee70e44f
+16	281	7580447786495577	CMakeFiles/Note2.dir/main.cpp.obj.ddi	cade622c3e414b4d
+281	310	7580447789142861	CMakeFiles/Note2.dir/CXX.dd	d59799780c1a5c99
+281	310	7580447789142861	C:/Users/User/Desktop/Module26/Notes/Note2/cmake-build-debug/CMakeFiles/Note2.dir/CXXModules.json	d59799780c1a5c99
+281	310	7580447789142861	CMakeFiles/Note2.dir/main.cpp.obj.modmap	d59799780c1a5c99
+312	1680	7580447789453125	CMakeFiles/Note2.dir/main.cpp.obj	4f31343b5520f427
+1680	1789	7580447803139883	Note2.exe	d63a5a6aee70e44f
